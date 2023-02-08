@@ -17,7 +17,8 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by ediasdasdwqdting&nbsp;
+
+            Get started by eaaaaaaaaditing&nbsp;
             <code className={styles.code}>pages/index.js</code>
           </p>
           <div>
